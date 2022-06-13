@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE my_pref [
+	<!ELEMENT my_pref (film,tv_serial,food,season_year,country_togo)>
+	<!ELEMENT film (#PCDATA)>
+	<!ELEMENT tv_serial (#PCDATA)>
+	<!ELEMENT food (#PCDATA)>
+	<!ELEMENT season_year (#PCDATA)>
+	<!ELEMENT country_togo (#PCATA)>
+	]
+>
+<my_pref>
+	<film>Forest Gump</film>
+	<tv_serial>Everybidy Hates Chris</tv_serial>
+	<food>Fried potatos with onion and meat</food>
+	<season_year>Summer</season_year>
+	<country_togo>Australia</country_togo>
+</mypref>
+
