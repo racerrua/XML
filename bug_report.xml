@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug id="1">
+  <title>Very BIG Bug</title>
+  <platform>9¾</platform>
+  <priority>The most importent</priority>
+  <description>What the fuck?</description>
+  <steps_to_reproduce>Just do it!</steps_to_reproduce>
+  <screenshot>(͡° ͜ʖ ͡°) (͡°╭͜ʖ╮͡°) (✷‿✷))¯\_(ツ)_/¯ (V)(;,;)(V) (>^.^)>(^*o*)^</screenshot>
+</bug>
