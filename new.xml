@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE aboutme [
-<!ELEMENT aboutme (FIO,AGE,num_pets,desired_salary)>
-<!ELEMENT FIO (#PCDATA)>
-<!ELEMENT AGE (#PCDATA)>
-<!ELEMENT num_pets (#PCDATA)>
-<!ELEMENT desired_salary (#PCDATA)>
-<!ENTITY firts_name "Dmitrii">
-<!ENTITY last_name "Suchkov">
-]>
+	<!ELEMENT aboutme (FIO,AGE,num_pets,desired_salary)>
+	<!ELEMENT FIO (#PCDATA)>
+	<!ELEMENT AGE (#PCDATA)>
+	<!ELEMENT num_pets (#PCDATA)>
+	<!ELEMENT desired_salary (#PCDATA)>
+	<!ENTITY firts_name "Dmitrii">
+	<!ENTITY last_name "Suchkov">
+	]
+>
 <aboutme>
 	<FIO>&first_name; &last_name;</FIO>
 	<AGE>34</AGE>
