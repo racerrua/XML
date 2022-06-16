@@ -8,15 +8,15 @@
 <skill id="1">Client-Sever architecture</skill>
 <skill id="2">HTTP methods of request to server</skill>
 <skill id="3">HTTP server response codes</skill>
-<skill id="4">Stractures of HTTP requests and responces</skill>
+<skill id="4">Structures of HTTP requests and responses</skill>
 <skill id="5">What is JSON, XML. What's the structure of them</skill>
 <skill id="6">Testing API by Postman</skill>
-<skill id="8">Get and read logs from outside servers</skill>
-<skill id="9">Sniffing http web traffic by Charles and Fiddler</skill>
-<skill id="10">Dev Tools of web browsers:</skill>
+<skill id="7">Get and read logs from outside servers</skill>
+<skill id="8">Sniffing http web traffic by Charles and Fiddler</skill>
+<skill id="9">Dev Tools of web browsers:</skill>
 	<browser>Chrome</browser>
 	<browser>Firefox</browser>
 	<browser>Opera</browser>
-<skill id="11">VPN</skill>
-<skill id="12">Mobile Testing</skill>
+<skill id="10">VPN</skill>
+<skill id="11">Mobile Testing</skill>
 </lesson_skills>

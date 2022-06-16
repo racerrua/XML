@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE aboutme [
-	<!ELEMENT aboutme (FIO,AGE,num_pets,desired_salary)>
-	<!ELEMENT FIO (#PCDATA)>
-	<!ELEMENT AGE (#PCDATA)>
+	<!ELEMENT aboutme (fio,age,num_pets,desired_salary)>
+	<!ELEMENT fio (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
 	<!ELEMENT num_pets (#PCDATA)>
 	<!ELEMENT desired_salary (#PCDATA)>
 	<!ENTITY firts_name "Dmitrii">
@@ -10,8 +10,8 @@
 	]
 >
 <aboutme>
-	<FIO>&first_name; &last_name;</FIO>
-	<AGE>34</AGE>
+	<fio>&first_name; &last_name;</fio>
+	<age>34</age>
 	<num_pets>0</num_pets>
 	<desired_salary currency="US Dollar $">4000</desired_salary>
 </aboutme>
